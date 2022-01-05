@@ -1,0 +1,4 @@
+#Wed Jan 05 20:38:50 JST 2022
+base.0=/Users/shinkaka/Documents/httpTest2/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

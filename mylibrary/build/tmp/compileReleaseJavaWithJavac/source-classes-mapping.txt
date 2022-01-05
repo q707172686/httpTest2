@@ -1,0 +1,2 @@
+com/ostech/mylibrary/BuildConfig.java
+ com.ostech.mylibrary.BuildConfig

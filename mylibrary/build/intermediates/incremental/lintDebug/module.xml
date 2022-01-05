@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/shinkaka/Documents/httpTest2/mylibrary"
+    name=":mylibrary"
+    type="LIBRARY"
+    maven="My Application:mylibrary:"
+    gradle="7.0.0"
+    buildFolder="build"
+    bootClassPath="/Users/shinkaka/Library/Android/sdk/platforms/android-31/android.jar:/Users/shinkaka/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

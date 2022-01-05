@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/res/layout-v21/notification_action.xml"
+    }
+]

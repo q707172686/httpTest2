@@ -1,0 +1,2 @@
+com/ostech/myapplication/BuildConfig.java
+ com.ostech.myapplication.BuildConfig

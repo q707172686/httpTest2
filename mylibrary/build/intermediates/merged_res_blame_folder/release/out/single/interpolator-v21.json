@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    }
+]

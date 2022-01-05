@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/d981204c8e8fe36955c6a3de21ada3a0/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/shinkaka/.gradle/caches/transforms-3/665d7385eacb483e6a3407c32ba70e92/transformed/constraintlayout-2.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/3badc75699288d9475547b42a4f77441/transformed/appcompat-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/833cc8ca1cf01a57f1cd8a7bc9696177/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shinkaka/.gradle/caches/transforms-3/98e815a1209a3e4da9979e10baa84ee3/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/shinkaka/.gradle/caches/transforms-3/15f2d4686a6707307181704caa51c3f7/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/f9ba37d8018b338ebad0d8ba441e47b8/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/a34bdf07717d52f6866da826a5b35ed0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/1f0533bf91949b0791726c71b22183e7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/baf995fceeb2ce87da843b697fb59ad6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/4609854af056b9fd265f63de9bf98ba1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/shinkaka/.gradle/caches/transforms-3/cf6a0909efbb46f52619f9b8c9cb2645/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/b970cf6900cbaaf1ec8aaf27d5689f82/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/890f1394bf5f87440621d24b102e1346/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/264af3d487098015b32cdd3974283032/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/4dfb8b753ff7330f444ea84f0cca6f92/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/0179006ca1cff3341ef7827c2635bfec/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/6260537be684585231d067b529864159/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/8148a98a26af7c5d201034f296d62c00/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/3b53d3625ae2ab9f0b98fc5e93cca919/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/0e18abd922880c5511b60fab73b96956/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/83e9faed4b0a4c244f2583e8bda2a07c/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/ce58d3c85b4aaa3b1e5ba579c2cfc047/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/f931627c8d3217959d18bacec7c0bdd2/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinkaka/.gradle/caches/transforms-3/6e919064ea17a17606b526d1ba49b6ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/2cf745e0cbf55a132812d190cce3f00f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/3b1ef769e7f48cfc7ab2b9326a3cb046/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shinkaka/.gradle/caches/transforms-3/de544da803fcf92c21ec8ff4252c6a9b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/d23fb0dc63716c1c10f04896234e0440/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/72ec6c4950fe608e810a6f3f1b9d0677/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shinkaka/.gradle/caches/transforms-3/0cd4a53b3fe7bf281e0d557442b47b93/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/6f339a1c866f9177bfbfce0e4449d6c6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/cbfda4756f369061f302f2987f0a77d1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/eddee1be88307447bdf9356fd379d4ba/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/f08b1129afc147efecc3d06361fe1b25/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/1bced93cf7bca23c241e274eb0df3209/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/shinkaka/.gradle/caches/transforms-3/665d7385eacb483e6a3407c32ba70e92/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/shinkaka/.gradle/caches/transforms-3/665d7385eacb483e6a3407c32ba70e92/transformed/constraintlayout-2.1.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinkaka/.gradle/caches/transforms-3/6e919064ea17a17606b526d1ba49b6ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinkaka/.gradle/caches/transforms-3/6e919064ea17a17606b526d1ba49b6ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/2cf745e0cbf55a132812d190cce3f00f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/2cf745e0cbf55a132812d190cce3f00f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:11:9-51
+activity#com.ostech.myapplication.MainActivity
+ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/d981204c8e8fe36955c6a3de21ada3a0/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/d981204c8e8fe36955c6a3de21ada3a0/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/shinkaka/.gradle/caches/transforms-3/665d7385eacb483e6a3407c32ba70e92/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] /Users/shinkaka/.gradle/caches/transforms-3/665d7385eacb483e6a3407c32ba70e92/transformed/constraintlayout-2.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/3badc75699288d9475547b42a4f77441/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/3badc75699288d9475547b42a4f77441/transformed/appcompat-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/833cc8ca1cf01a57f1cd8a7bc9696177/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/833cc8ca1cf01a57f1cd8a7bc9696177/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shinkaka/.gradle/caches/transforms-3/98e815a1209a3e4da9979e10baa84ee3/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/shinkaka/.gradle/caches/transforms-3/98e815a1209a3e4da9979e10baa84ee3/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/shinkaka/.gradle/caches/transforms-3/15f2d4686a6707307181704caa51c3f7/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/shinkaka/.gradle/caches/transforms-3/15f2d4686a6707307181704caa51c3f7/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/f9ba37d8018b338ebad0d8ba441e47b8/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] /Users/shinkaka/.gradle/caches/transforms-3/f9ba37d8018b338ebad0d8ba441e47b8/transformed/jetified-appcompat-resources-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/a34bdf07717d52f6866da826a5b35ed0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/a34bdf07717d52f6866da826a5b35ed0/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/1f0533bf91949b0791726c71b22183e7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/1f0533bf91949b0791726c71b22183e7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/baf995fceeb2ce87da843b697fb59ad6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/baf995fceeb2ce87da843b697fb59ad6/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/4609854af056b9fd265f63de9bf98ba1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/4609854af056b9fd265f63de9bf98ba1/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/shinkaka/.gradle/caches/transforms-3/cf6a0909efbb46f52619f9b8c9cb2645/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shinkaka/.gradle/caches/transforms-3/cf6a0909efbb46f52619f9b8c9cb2645/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/b970cf6900cbaaf1ec8aaf27d5689f82/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/b970cf6900cbaaf1ec8aaf27d5689f82/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/890f1394bf5f87440621d24b102e1346/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/890f1394bf5f87440621d24b102e1346/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/264af3d487098015b32cdd3974283032/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/264af3d487098015b32cdd3974283032/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/4dfb8b753ff7330f444ea84f0cca6f92/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/4dfb8b753ff7330f444ea84f0cca6f92/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/0179006ca1cff3341ef7827c2635bfec/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/0179006ca1cff3341ef7827c2635bfec/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/6260537be684585231d067b529864159/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/6260537be684585231d067b529864159/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/8148a98a26af7c5d201034f296d62c00/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/8148a98a26af7c5d201034f296d62c00/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/shinkaka/.gradle/caches/transforms-3/2381086702070956788d52c2dd13efc5/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/3b53d3625ae2ab9f0b98fc5e93cca919/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/3b53d3625ae2ab9f0b98fc5e93cca919/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/0e18abd922880c5511b60fab73b96956/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/0e18abd922880c5511b60fab73b96956/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/83e9faed4b0a4c244f2583e8bda2a07c/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/83e9faed4b0a4c244f2583e8bda2a07c/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/ce58d3c85b4aaa3b1e5ba579c2cfc047/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/ce58d3c85b4aaa3b1e5ba579c2cfc047/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/f931627c8d3217959d18bacec7c0bdd2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/f931627c8d3217959d18bacec7c0bdd2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinkaka/.gradle/caches/transforms-3/6e919064ea17a17606b526d1ba49b6ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/shinkaka/.gradle/caches/transforms-3/6e919064ea17a17606b526d1ba49b6ad/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/2cf745e0cbf55a132812d190cce3f00f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/2cf745e0cbf55a132812d190cce3f00f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/3b1ef769e7f48cfc7ab2b9326a3cb046/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/3b1ef769e7f48cfc7ab2b9326a3cb046/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shinkaka/.gradle/caches/transforms-3/de544da803fcf92c21ec8ff4252c6a9b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shinkaka/.gradle/caches/transforms-3/de544da803fcf92c21ec8ff4252c6a9b/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/d23fb0dc63716c1c10f04896234e0440/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/shinkaka/.gradle/caches/transforms-3/d23fb0dc63716c1c10f04896234e0440/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/72ec6c4950fe608e810a6f3f1b9d0677/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/72ec6c4950fe608e810a6f3f1b9d0677/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shinkaka/.gradle/caches/transforms-3/0cd4a53b3fe7bf281e0d557442b47b93/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/shinkaka/.gradle/caches/transforms-3/0cd4a53b3fe7bf281e0d557442b47b93/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/6f339a1c866f9177bfbfce0e4449d6c6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/6f339a1c866f9177bfbfce0e4449d6c6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/cbfda4756f369061f302f2987f0a77d1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/cbfda4756f369061f302f2987f0a77d1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/eddee1be88307447bdf9356fd379d4ba/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/eddee1be88307447bdf9356fd379d4ba/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/f08b1129afc147efecc3d06361fe1b25/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/f08b1129afc147efecc3d06361fe1b25/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/1bced93cf7bca23c241e274eb0df3209/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/shinkaka/.gradle/caches/transforms-3/1bced93cf7bca23c241e274eb0df3209/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shinkaka/Documents/httpTest2/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/2cf745e0cbf55a132812d190cce3f00f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/2cf745e0cbf55a132812d190cce3f00f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/shinkaka/.gradle/caches/transforms-3/9d6a92882d85b4fa27b3fd3e0603a6eb/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/shinkaka/.gradle/caches/transforms-3/1b9755c58ce1858fbd804ce8500eebd5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

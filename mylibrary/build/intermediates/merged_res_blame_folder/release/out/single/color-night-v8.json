@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/res/color-night-v8/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/color-night-v8/material_timepicker_clockface.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/res/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "/Users/shinkaka/Documents/httpTest2/mylibrary/build/intermediates/merged_res/release/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "/Users/shinkaka/.gradle/caches/transforms-3/2dfea6e167a10a872907390b00902a9b/transformed/material-1.4.0/res/color-night-v8/material_timepicker_modebutton_tint.xml"
+    }
+]
